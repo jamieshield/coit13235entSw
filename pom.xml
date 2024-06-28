@@ -1,0 +1,49 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.cqu.coit13235</groupId>
+    <artifactId>solutions</artifactId>
+    <packaging>pom</packaging>
+	<version>0.0.1-SNAPSHOT</version>
+    <parent>
+        <groupId>org.cqu</groupId>
+        <artifactId>coit13235</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+
+    <modules>
+        <!-- lecture -->
+		<module>wk1Lec_designByContract_jdk11</module>
+		<module>Wk1Lec_optional_jdk11</module>
+		<module>Wk1LecQ3Lombok_jdk11</module>
+        <module>Wk1Lec_Repository_jdk11</module>
+		<module>Wk1LecQ6DepInj_jdk11</module>
+		<!-- Tute -->
+        <module>Wk1_lombok_jdk11</module>
+		<module>Wk1_optionalMovie_jdk11</module>
+		<module>Wk1_SpringDI_jdk11</module>
+		<module>Wk1TuteQ4DependencyInjection</module>
+		<module>Wk1TuteQ4_SyncModelBiPrep_jdk11</module>
+
+		
+		<module>Wk2LecQ1PersistBook</module>
+		<module>Wk2LecQ2_1to1UniNormal_lockers_jdk11</module>
+		<module>Wk2LecQ3_1toNUniNormal_lockers_jdk11</module>
+		<module>Wk2LecQ4_Transactional_lockers_jdk11</module>
+		<module>Wk2LecQ4_1to1Bi_lockers__jdk11</module>
+		<module>Wk2LecQ5_1toNBi_lockers__jdk11</module>
+		<module>Wk2LecQ7_Lazy1toNBi_lockers__jdk11</module>
+        
+		<!-- Tute -->
+		<module>Wk2TuteQ1_1to1CustAddress_jdk11</module>
+		<module>Wk2TuteQ2_1to1CustAddress_jdk11</module>
+		<module>Wk2TuteElementCollectionPerson</module>
+		<module>Wk2TuteElementCollectionPersonQn</module>
+        
+		<module>Wk2_cr_jpa_2tables_cust1_manyAddress_jdk11</module>
+		<module>Wk2_cr_jpa_2tables_cust1_bi_1address_jdk11</module>
+		<module>unusedWk2LecQ5_SetPlural1toNBi_lockers__jdk11</module>
+        
+    </modules>
+</project>

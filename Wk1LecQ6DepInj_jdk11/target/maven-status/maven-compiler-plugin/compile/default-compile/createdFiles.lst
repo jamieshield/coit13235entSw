@@ -1,0 +1,5 @@
+com\uni\app\App.class
+com\uni\app\RatingService.class
+com\uni\app\MovieRepository.class
+com\uni\app\Rating.class
+com\uni\app\Repository.class

@@ -1,0 +1,5 @@
+com\app\uni\App.class
+com\app\uni\Ratings.class
+com\app\uni\Rating.class
+com\app\uni\RatingRepository.class
+com\app\uni\RatingService.class

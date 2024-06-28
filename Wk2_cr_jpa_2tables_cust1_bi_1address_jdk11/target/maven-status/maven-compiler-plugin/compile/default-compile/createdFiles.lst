@@ -1,0 +1,9 @@
+com\uni\app\Customer.class
+com\uni\app\AddressRepository.class
+com\uni\app\App.class
+com\uni\app\Address.class
+com\uni\app\AppInit2.class
+com\uni\app\CustomerRepository.class
+com\uni\app\AppInit.class
+com\uni\app\RepositoryHelper.class
+com\uni\app\AppInitShowTables.class

@@ -1,0 +1,6 @@
+com\uni\app\PersonRepository.class
+com\uni\app\ApplicationStartup.class
+com\uni\app\App$AppInit.class
+com\uni\app\App.class
+com\uni\app\Person.class
+com\uni\app\RepositoryHelper.class

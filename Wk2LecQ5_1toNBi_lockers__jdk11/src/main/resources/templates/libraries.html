@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<h1>Libraries</h1>
+<div th:each="l :${libraries}">
+  <span th:text="${l.category}"/>
+  <span th:text="${l.count}"/>
+</div>
